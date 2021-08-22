@@ -1,5 +1,5 @@
 # Dominion
-### A 2-4 players deckbuilder-game. 
+## A 2-4 players deckbuilder-game. 
 
 My take on one of our favourite games. Dominion is a deckbuilder game, where strategy and a pinch of luck will lead you to victory.
 
